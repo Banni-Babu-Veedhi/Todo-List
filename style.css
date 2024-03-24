@@ -120,18 +120,7 @@
 .checked {
   text-decoration: line-through;
 }
-@media screen and (min-width:768px){
-    
-    .coll{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-    .todo-user-input{
-        width: 400px;
-    }
-}
+
 @media screen and (min-width:993px){
     
     .coll{
